@@ -1,5 +1,6 @@
 # 📱 Mobile Device Usage and User Behavior - Analysis 
 Currently working on this... 👩🏼‍💻
+So far looked at:
 - distributions of different data
 - comparing different factors in the dataset
 
