@@ -7,10 +7,10 @@ This repository contains an analysis of mobile device usage and user behavior pa
 Understanding user behavior is crucial for optimizing mobile apps. This project explores key aspects of user interaction, such as session duration, frequency, and feature engagement, while also examining trends based on demographics.
 
 ### Key Objectives:
-- 📊 Analyze user interaction patterns with the app.
-- 📈 Identify trends in session frequency and app usage.
-- 👥 Explore the impact of demographics on engagement.
-- 📍 Visualize key metrics for deeper insights.
+- 📊 Analyze user interaction patterns with the app
+- 📈 Identify trends in session frequency and app usage
+- 👥 Explore the impact of demographics on engagement
+- 📍 Visualize key metrics for deeper insights
 
 ## 📂 Dataset
 
